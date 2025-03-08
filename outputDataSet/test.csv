@@ -1,0 +1,6 @@
+﻿eventType;playerName;age;runs;wickets;playerType
+TEST;CDE456;45;100;100;Bowler
+TEST;KLM901;51;4000;800;All-Rounder
+TEST;QRS67;24;100;100;Bowler
+TEST;abc456;34;1000;600;All-Rounder
+TEST;bnhg678;45;100;600;Batsman

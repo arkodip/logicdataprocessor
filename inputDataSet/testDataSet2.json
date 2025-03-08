@@ -1,0 +1,4 @@
+{"eventType": "ODI", "playerName":"abc456", "age":34, "runs":10, "wickets":0}
+{"eventType": "TEST", "playerName":"abc456", "age":34, "runs":1000, "wickets":600}
+{"eventType": "ODI", "playerName":"bnhg678", "age":45, "runs":4000, "wickets":200}
+{"eventType": "TEST", "playerName":"bnhg678", "age":45, "runs":100, "wickets":600}

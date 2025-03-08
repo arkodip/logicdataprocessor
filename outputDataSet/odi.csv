@@ -1,0 +1,6 @@
+﻿eventType;playerName;age;runs;wickets;playerType
+ODI;ABC123;25;1000;171;All-Rounder
+ODI;EFG789;24;2500;10;Batsman
+ODI;HIJ012;10;250;29;Bowler
+ODI;abc456;34;10;0;Bowler
+ODI;bnhg678;45;4000;200;All-Rounder
